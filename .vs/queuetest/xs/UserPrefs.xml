@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C58AC78D-3A14-4442-B184-43D796338C53}|Default">
+  <MonoDevelop.Ide.ItemProperties.queuetest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="queuetest/eGeneric.cs">
+    <Files>
+      <File FileName="queuetest/Program.cs" Line="35" Column="23" />
+      <File FileName="queuetest/eGeneric.cs" Line="6" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="queuetest" expanded="True">
+            <Node name="queuetest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

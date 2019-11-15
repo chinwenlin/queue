@@ -1,0 +1,6 @@
+/Users/joeylin/Projects/queuetest/queuetest/bin/Debug/queuetest.exe
+/Users/joeylin/Projects/queuetest/queuetest/bin/Debug/queuetest.pdb
+/Users/joeylin/Projects/queuetest/queuetest/obj/Debug/queuetest.csprojAssemblyReference.cache
+/Users/joeylin/Projects/queuetest/queuetest/obj/Debug/queuetest.csproj.CoreCompileInputs.cache
+/Users/joeylin/Projects/queuetest/queuetest/obj/Debug/queuetest.exe
+/Users/joeylin/Projects/queuetest/queuetest/obj/Debug/queuetest.pdb
